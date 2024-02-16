@@ -1,4 +1,4 @@
-﻿using System;
+﻿// using System;
 
 namespace TAREA_SEMANA_2.TEMA_1
 {

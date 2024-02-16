@@ -18,7 +18,6 @@ namespace TAREA_SEMANA_2.TEMA_1
                 NumEnt = (int)NumFlo;
 
                 Console.WriteLine("El numero decimal " + NumFlo + " como numero flotante ahora es: " + NumEnt);
-                Console.WriteLine("Aunque realmente no se nota el cambio xD");
             }
             catch (Exception ex)
             {
